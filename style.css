@@ -12,7 +12,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('IMG_4963.JPG');
+    background-image: url('/IMG_4963.JPG');
     background-size: cover;
 }
 .container{
