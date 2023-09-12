@@ -14,6 +14,7 @@ body{
     justify-content: center;
     background-image: url('/IMG_4963.JPG');
     background-size: cover;
+    background-color: purple;
 }
 .container{
     position: relative;
